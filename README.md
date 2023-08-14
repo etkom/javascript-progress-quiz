@@ -23,9 +23,9 @@ The <head> section
 
 
 What is the correct syntax for referring to an external script called "xxx.js"?
-<script src="xxx.js">    Your answer  
-<script name="xxx.js">
-<script href="xxx.js">
+<script src='xxx.js'>    Your answer  
+<script name='xxx.js'>
+<script href='xxx.js'>
 
 The external JavaScript file must contain the <script> tag.
 False    Your answer  
